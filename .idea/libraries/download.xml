@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="download">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/download/NoahAgainstTheCocks.zip!/" />
+      <root url="jar://$PROJECT_DIR$/download/Physics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/download/MessageMaker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/download/game.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
